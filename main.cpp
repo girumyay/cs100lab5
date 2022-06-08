@@ -8,6 +8,7 @@
 #include "pow.hpp"
 #include "div.hpp"
 #include "mult.hpp"
+#include "rand.hpp"
 
 int main() {
     // This is a very basic main, and being able to correctly execute this main
